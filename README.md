@@ -24,9 +24,8 @@ This project focuses on the design and implementation of a flight controller for
 
 ## 🔥 Motivation
 
-- **Hands-On Experience in FPGA Programming**: This project provided practical learning and skill development in FPGA programming.
-- **Platform for Research & Innovation**: Designing an HDL-based flight controller opens avenues for research and innovation in UAV technology.
-- **Challenging & Rewarding**: This project pushed the boundaries of autonomous flight and presented opportunities for overcoming real-world challenges in UAV control.
+There are a lot of flight controllers in the world working on microcontrollers that work on software-based approach. This project focused on an FPGA based approach, it is much more flexible, secure, customizable and faster. Yet only a few FPGA based Flight controllers are available in the market. Even though it is a better solution to the problem, it is more a question of "why can't we use FPGAs" or "why don't we see many in use". Since FPGA provide a hardware-based solution to the problem, they are harder to program as a flight controller developer. They are much more complex when compared to microcontrollers that are used currently. But that complexity has its own reward.
+So, the main motivation of this project is to go beyond the barrier of complexity and provide a much better FPGA based solution to the existing drone system problems.
 
 ---
 
@@ -40,7 +39,7 @@ The system integrates multiple modules to achieve smooth and stable flight for t
 - **PWM Encoder**: Sends precise control signals to the Electronic Speed Controllers (ESCs) for motor control.
 
 <div align="center">
-    <img src="path/to/your/system_design_image.png" alt="System Design" width="600"/>
+    <img src="https://github.com/user-attachments/assets/f7090339-be16-44e5-8c92-316a45232282" alt="System Design" width="600"/>
 </div>
 
 ---
@@ -57,7 +56,7 @@ The **I2C master** module facilitates communication with the MPU 6050 gyroscope 
 The PID (Proportional-Integral-Derivative) controller ensures quadcopter stability by comparing user input with MPU 6050 data. It generates output signals for the PWM encoder to maintain smooth and stable flight.
 
 <div align="center">
-    <img src="path/to/your/PID_diagram.png" alt="PID Controller" width="500"/>
+    <img src="https://github.com/user-attachments/assets/4dc9c67d-44eb-47d0-919d-2dcc8474a550" alt="PID Controller" width="500"/>
 </div>
 
 ### PWM Encoder
@@ -103,9 +102,8 @@ An FPV (First-Person View) camera module enables real-time video streaming, enha
 ## 📸 Project Images
 
 <div align="center">
-    <img src="path/to/your/drone_image1.jpeg" alt="Drone Prototype" width="300"/>
-    <img src="path/to/your/drone_image2.jpeg" alt="FPV Camera Setup" width="300"/>
-    <img src="path/to/your/drone_image3.jpeg" alt="Quadcopter Circuit Design" width="300"/>
+    <img src="https://github.com/user-attachments/assets/ffaa474d-c842-43c5-a60d-ab1e7f6c6606" alt="Drone Prototype" width="300"/>
+    <img src="https://github.com/user-attachments/assets/4162da30-f7a9-49bc-afde-2faa901e00ab" alt="FPV Camera Setup" width="300"/>
 </div>
 
 ---
