@@ -104,6 +104,7 @@ An FPV (First-Person View) camera module enables real-time video streaming, enha
 <div align="center">
     <img src="https://github.com/user-attachments/assets/ffaa474d-c842-43c5-a60d-ab1e7f6c6606" alt="Drone Prototype" width="300"/>
     <img src="https://github.com/user-attachments/assets/4162da30-f7a9-49bc-afde-2faa901e00ab" alt="FPV Camera Setup" width="300"/>
+    <img src="https://github.com/user-attachments/assets/9f5957e6-5840-4b2c-98e6-fd3dfe97951a" alt="FPV Camera Setup" width="300"/>
 </div>
 
 ---
